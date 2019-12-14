@@ -1,0 +1,11 @@
+C:\Users\hlamg\source\repos\QualityTest\QualityTest\bin\Debug\netcoreapp3.1\QualityTest.exe
+C:\Users\hlamg\source\repos\QualityTest\QualityTest\bin\Debug\netcoreapp3.1\QualityTest.deps.json
+C:\Users\hlamg\source\repos\QualityTest\QualityTest\bin\Debug\netcoreapp3.1\QualityTest.runtimeconfig.json
+C:\Users\hlamg\source\repos\QualityTest\QualityTest\bin\Debug\netcoreapp3.1\QualityTest.runtimeconfig.dev.json
+C:\Users\hlamg\source\repos\QualityTest\QualityTest\bin\Debug\netcoreapp3.1\QualityTest.dll
+C:\Users\hlamg\source\repos\QualityTest\QualityTest\bin\Debug\netcoreapp3.1\QualityTest.pdb
+C:\Users\hlamg\source\repos\QualityTest\QualityTest\obj\Debug\netcoreapp3.1\QualityTest.csprojAssemblyReference.cache
+C:\Users\hlamg\source\repos\QualityTest\QualityTest\obj\Debug\netcoreapp3.1\QualityTest.AssemblyInfoInputs.cache
+C:\Users\hlamg\source\repos\QualityTest\QualityTest\obj\Debug\netcoreapp3.1\QualityTest.AssemblyInfo.cs
+C:\Users\hlamg\source\repos\QualityTest\QualityTest\obj\Debug\netcoreapp3.1\QualityTest.dll
+C:\Users\hlamg\source\repos\QualityTest\QualityTest\obj\Debug\netcoreapp3.1\QualityTest.pdb
